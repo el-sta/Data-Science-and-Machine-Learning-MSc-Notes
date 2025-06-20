@@ -1,1 +1,1 @@
-# -Data-Science-and-Machine-Learning-MSc-Notes
+# Data-Science-and-Machine-Learning-MSc-Notes
